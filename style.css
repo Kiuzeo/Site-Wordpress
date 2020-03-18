@@ -435,31 +435,18 @@ a.bouton1:hover {
     height: 100pt;
   }
 
-  .fondb p{
-    margin-top: 5%;
-  }
 
   .competences{
     height: 400px;
   }
-
-  .webdsg{
-    margin-left: -50%;
+  .skills{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
   }
 
-  .webdsg1{
-    margin-top: -17.5%;
-  }
-
-  .webdsg2{
-    margin-left: 50%;
-    margin-top: -16.5%;
-  }
 
   .icncomp{
-    width: 100px;
-    margin-left: 47%;
-
+    width: 40%;
   }
 
   .titlecomp{
