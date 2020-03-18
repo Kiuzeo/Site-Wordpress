@@ -49,7 +49,7 @@ body{
   cursor: pointer;
 
   opacity: 0;
-  z-index: 2; 
+  z-index: 2;
 
   -webkit-touch-callout: none;
 }
@@ -341,7 +341,7 @@ a.bouton1:hover {
   margin-bottom: -20px;
 }
 
-@media (min-width: 1280px) {
+@media screen and (min-width: 940px) {
 
   .entete{
     height: 80pt;
