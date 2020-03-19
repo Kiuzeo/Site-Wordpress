@@ -426,6 +426,10 @@ a.bouton1:hover {
   color: #AA6DE8;
   }
 
+  .fondb p{
+      margin-top: 5%;
+  }
+
   .text,.text1{
   text-align: center;
   font-size: 1.5em;
@@ -439,14 +443,15 @@ a.bouton1:hover {
   .competences{
     height: 400px;
   }
+
   .skills{
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
   }
 
-
   .icncomp{
-    width: 40%;
+    width: 20%;
+    margin-top: -5%;
   }
 
   .titlecomp{
